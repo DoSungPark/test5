@@ -33,7 +33,7 @@ author:
 
 
 rss_path: feed.xml
-ccommunity_path: community.html
+community_path: community.html
 contact_path: contact.html
 
 # set it as url of an image
